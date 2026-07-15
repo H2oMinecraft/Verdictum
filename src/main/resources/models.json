@@ -1,0 +1,9 @@
+[
+  {
+    "displayName": "Gemma 4 26B",
+    "apiModel": "google/gemma-4-26b-a4b-it:free",
+    "platform": "openrouter",
+    "baseUrl": "https://openrouter.ai/api/v1/chat/completions",
+    "responseFormat": "Google"
+  }
+]

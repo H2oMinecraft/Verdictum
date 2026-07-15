@@ -1,0 +1,8 @@
+tasks:
+  crime_extraction:
+    modules:
+      - base_values
+      - action_coefficients
+  interference_extraction:
+    modules:
+      - interference_factors
